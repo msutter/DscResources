@@ -1,0 +1,12 @@
+[submodule "xDscResources/xActiveDirectory"]
+	path = xDscResources/xActiveDirectory
+	url = https://github.com/PowerShell/xActiveDirectory
+[submodule "xDscResources/xAdcsDeployment"]
+	path = xDscResources/xAdcsDeployment
+	url = https://github.com/PowerShell/xAdcsDeployment
+[submodule "dscresources/SystemLocaleDsc"]
+	path = dscresources/SystemLocaleDsc
+	url = https://github.com/PowerShell/SystemLocaleDsc
+[submodule "dscresources/OfficeOnlineServerDsc"]
+	path = dscresources/OfficeOnlineServerDsc
+	url = https://github.com/PowerShell/OfficeOnlineServerDsc
