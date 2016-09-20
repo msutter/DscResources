@@ -10,3 +10,6 @@
 [submodule "dscresources/OfficeOnlineServerDsc"]
 	path = dscresources/OfficeOnlineServerDsc
 	url = https://github.com/PowerShell/OfficeOnlineServerDsc
+[submodule "xDscResources/xChrome"]
+	path = xDscResources/xChrome
+	url = https://github.com/PowerShell/xChrome
